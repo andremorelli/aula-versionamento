@@ -7,3 +7,4 @@ Alteração realizado no notbook HP
 
 
 # Aula 48 iniciada
+mudança para verificação do git status
